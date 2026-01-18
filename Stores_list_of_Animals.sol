@@ -1,3 +1,4 @@
+// Create a contract that stores a list of animals with manual initialization and user-add functionality
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
